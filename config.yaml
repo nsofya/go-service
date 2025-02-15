@@ -1,0 +1,2 @@
+addr: ":8080"
+secret: "your_jwt_secret_key"
